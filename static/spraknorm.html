@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NTBs språknorm</title>
+    <style>
+        :root {
+            --color-primary: #1a1a2e;
+            --color-accent: #0f3460;
+            --color-bg: #f8f9fa;
+            --color-surface: #ffffff;
+            --color-text: #212529;
+            --color-text-muted: #6c757d;
+            --color-border: #dee2e6;
+            --radius: 8px;
+            --shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            --max-width: 720px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: var(--color-bg);
+            color: var(--color-text);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        header {
+            background: var(--color-primary);
+            color: #fff;
+            padding: 2rem 1.5rem 1.5rem;
+            text-align: center;
+            position: relative;
+        }
+
+        header h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+        }
+
+        header p {
+            font-size: 0.9rem;
+            opacity: 0.7;
+        }
+
+        header a {
+            color: rgba(255, 255, 255, 0.8);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+
+        header a:hover {
+            color: #fff;
+        }
+
+        .github-link {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            color: #fff;
+            opacity: 0.85;
+            transition: opacity 0.2s, transform 0.2s;
+        }
+
+        .github-link:hover {
+            opacity: 1;
+            transform: scale(1.15);
+        }
+
+        nav {
+            margin-top: 0.75rem;
+        }
+
+        main {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+
+        .intro {
+            margin-bottom: 2rem;
+        }
+
+        .intro h2 {
+            font-size: 1.3rem;
+            color: var(--color-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .intro p {
+            margin-bottom: 1rem;
+            color: var(--color-text);
+        }
+
+        .toc {
+            background: var(--color-surface);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .toc h3 {
+            font-size: 1rem;
+            color: var(--color-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .toc li {
+            margin-bottom: 0.35rem;
+        }
+
+        .toc a {
+            color: var(--color-accent);
+            text-decoration: none;
+            font-size: 0.95rem;
+        }
+
+        .toc a:hover {
+            text-decoration: underline;
+        }
+
+        .rule-section {
+            background: var(--color-surface);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border-left: 4px solid var(--color-accent);
+        }
+
+        .rule-section h3 {
+            font-size: 1.15rem;
+            color: var(--color-primary);
+            margin-bottom: 0.75rem;
+        }
+
+        .rule-section h4 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-top: 1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .rule-section p {
+            margin-bottom: 0.75rem;
+        }
+
+        .rule-section p:last-child {
+            margin-bottom: 0;
+        }
+
+        .example {
+            background: var(--color-bg);
+            border-radius: 4px;
+            padding: 0.75rem 1rem;
+            margin: 0.75rem 0;
+            font-style: italic;
+            color: var(--color-text-muted);
+            border-left: 3px solid var(--color-border);
+        }
+
+        .example strong {
+            color: var(--color-text);
+            font-style: normal;
+        }
+
+        .note {
+            background: #fff8e1;
+            border-radius: 4px;
+            padding: 0.75rem 1rem;
+            margin: 0.75rem 0;
+            font-size: 0.9rem;
+            border-left: 3px solid #f9a825;
+        }
+
+        .note strong {
+            color: #e65100;
+        }
+
+        footer {
+            max-width: var(--max-width);
+            margin: 2rem auto;
+            padding: 1rem 1.5rem;
+            text-align: center;
+            font-size: 0.8rem;
+            color: var(--color-text-muted);
+            border-top: 1px solid var(--color-border);
+        }
+
+        footer a {
+            color: var(--color-accent);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.4rem;
+            }
+
+            main {
+                padding: 1rem;
+            }
+
+            .rule-section {
+                padding: 1.25rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>NTBs språknorm</h1>
+        <p>Retningslinjer for korrekt og konsekvent språkbruk</p>
+        <nav><a href="/">← Tilbake til ordlisten</a></nav>
+        <a href="https://github.com/DiFronzo/NTB-ordlisten" target="_blank" rel="noopener noreferrer" class="github-link" aria-label="GitHub">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+        </a>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Hvorfor en egen norm?</h2>
+            <p>
+                «NTB-språket» er et åpent nettsted for alle som vil skrive lett, forståelig og korrekt.
+                Det er laget for journalister, men passer like godt for studenter, lærere, tekstforfattere,
+                informasjonsfolk og alle andre som vil nå fram med budskapet sitt.
+            </p>
+            <p>
+                NTBs språknorm er verken radikal eller konservativ. Vårt mål er at språket skal oppleves som
+                moderne og lettlest. Normen er den samme som blir brukt av NTB, og som også følges av en rekke
+                avisredaksjoner.
+            </p>
+            <p>
+                I hovedsak følger normen offisiell norsk rettskrivning, men med færre valgmuligheter. Norsk
+                inneholder svært mange sidestilte former, men vi har i en rekke tilfeller snevret inn utvalget.
+                Der de autoriserte ordbøkene sidestiller to stavemåter, har NTB oftest gjort et valg. Selv om
+                det ifølge Språkrådet er valgfritt om man vil skrive <em>sogneprest</em> eller
+                <em>sokneprest</em>, skal NTBs medarbeidere alltid skrive <em>sogneprest</em>. Dermed framstår
+                språket som konsekvent.
+            </p>
+            <p>
+                Men godt språk handler ikke bare om rettskrivning. Et levende språk må bygge på hver enkelts
+                egen språkfølelse. I moderne bokmål er bøyningen av substantiv ofte valgfri (<em>boka</em>
+                eller <em>boken</em>). Det samme gjelder stadig flere verb (<em>å snuble – snubla</em> eller
+                <em>snublet</em>). Yngre og eldre føler seg hjemme i litt ulik språkdrakt. Dialektbakgrunn
+                spiller også inn. Vi har valgt å beholde en betydelig grad av valgfrihet på dette området. Det
+                stiller store krav til alle som skriver og redigerer, men er nødvendig for å hindre at språket
+                stivner.
+            </p>
+            <p>
+                Språkreglene skal bidra til å luke ut feil, slurv og språklige forvrengninger. Reglene skal
+                gjøre språket mer konsekvent og stimulere til høyere språklig bevissthet, løpende språkrøkt
+                og skjerpet kritisk sans.
+            </p>
+            <p>
+                Her er de viktigste områdene hvor NTBs språknorm skiller seg fra vanlig bokmål:
+            </p>
+        </section>
+
+        <div class="toc">
+            <h3>Innhold</h3>
+            <ul>
+                <li><a href="#hunkjonnsord">Hunkjønnsord</a></li>
+                <li><a href="#fram-frem">Fram/frem</a></li>
+                <li><a href="#de-dem-ham">De/dem, ham</a></li>
+                <li><a href="#enda-enna">Enda/ennå</a></li>
+                <li><a href="#ede-ete">-ede/-ete</a></li>
+            </ul>
+        </div>
+
+        <section id="hunkjonnsord" class="rule-section">
+            <h3>Hunkjønnsord</h3>
+            <h4>Hunkjønnsord som bøyes med -a</h4>
+            <p>Noen substantiv skal ha endelsen –a i bestemt form entall:</p>
+            <div class="example">
+                <strong>Bikkja, dynga, kua, bjørka, jenta.</strong>
+            </div>
+            <p>
+                I svært mange vanlige ord er det valgfritt mellom –a eller –en. Det er imidlertid ikke slik
+                at hvis du velger a-endelse i ett ord, så må du gjøre det i alle. Kravet om konsistens gjelder
+                bare hvert enkelt ord. Du kan altså ikke blande formene <em>jakka</em> og <em>jakken</em> i
+                samme tekst, men det er helt i orden å kombinere <em>jakken</em> og <em>boka</em>.
+            </p>
+            <p>
+                Selv om du velger a-endelser i ord som <em>boka</em> og <em>jakka</em>, er regelen at vi
+                skriver <em>en jakke</em> og <em>en bok</em>, som er den dominerende formen i norske
+                skriftmedier. Det kan likevel gjøres unntak i ord som har obligatorisk a-endelse, som
+                <em>hytte</em>, <em>jente</em>, <em>høne</em> og <em>bjørk</em>. Du kan altså velge om du
+                vil skrive <em>ei jente</em> eller <em>en jente</em>.
+            </p>
+        </section>
+
+        <section id="fram-frem" class="rule-section">
+            <h3>Fram/frem</h3>
+            <p>Når ordet står alene, skriver vi alltid <strong>fram</strong> – ikke <em>frem</em>.</p>
+            <p>
+                I sammensetninger er det valgfritt hvilken form du vil bruke: <em>framskritt</em> eller
+                <em>fremskritt</em>, <em>framover</em> eller <em>fremover</em>, <em>framtid</em> eller
+                <em>fremtid</em> osv.
+            </p>
+            <p>
+                Vær konsekvent i valgene du gjør. Pass på at du ikke veksler mellom former som
+                <em>framtiden/framtida/fremtiden/fremtida</em> i en og samme artikkel.
+            </p>
+        </section>
+
+        <section id="de-dem-ham" class="rule-section">
+            <h3>De/dem, ham</h3>
+            <p>
+                Vi bruker <strong>ham</strong> og <strong>dem</strong> i objektsposisjon, ikke <em>han</em>
+                og <em>de</em> (selv om offisiell rettskrivning tillater <em>han</em> som objektsform):
+            </p>
+            <div class="example">
+                Jeg sa det til <strong>ham</strong> (ikke: «Jeg sa det til han»).<br>
+                Jeg så <strong>dem</strong> komme (ikke: «Jeg så de komme»).
+            </div>
+            <h4>Subjektsform (nominativ)</h4>
+            <p><em>De</em>, <em>han</em> og <em>hun</em> er subjektsform:</p>
+            <div class="example">
+                <strong>Han/hun/de</strong> så meg komme.
+            </div>
+            <h4>Objektsform (akkusativ)</h4>
+            <p><em>Dem</em>, <em>ham</em> og <em>henne</em> er objektsform:</p>
+            <div class="example">
+                Jeg så <strong>ham/henne/dem</strong> komme.
+            </div>
+            <p>
+                Vær obs på at feilen <em>de</em> for <em>dem</em> er svært vanlig i muntlig språk, også i
+                radio og TV. Er du i tvil, kan det hjelpe å sette inn <em>hun</em> i stedet for <em>han</em>
+                eller <em>de</em>. Høres det galt ut med <em>hun</em>, er det også galt å skrive
+                <em>han/de</em>. Og omvendt: Er det klart at det skal være <em>henne</em>, er det heller
+                ingen tvil om at det skal være <em>ham/dem</em>.
+            </p>
+            <p>
+                Merk at det skal være <strong>dem</strong> i preposisjonsledd: <em>Av dem, for dem, over dem,
+                på dem, under dem, foran dem</em> osv.
+            </p>
+            <p>
+                Dette gjelder også i kombinasjon med en som-setning:
+            </p>
+            <div class="example">
+                Jeg synes synd på <strong>dem</strong> som måtte mene noe annet.
+                (Ikke <em>de som</em>, selv om dette er godkjent i vanlig bokmål.)
+            </div>
+        </section>
+
+        <section id="enda-enna" class="rule-section">
+            <h3>Enda/ennå</h3>
+            <p>
+                <strong>Enda</strong> er et gradsadverb som beskriver grad, mens tidsadverbet
+                <strong>ennå</strong> sier noe om tid og tilsvarer <em>fremdeles</em>.
+            </p>
+            <div class="example">
+                Han var <strong>enda</strong> større enn storebror. (grad)<br>
+                Han har <strong>ennå</strong> ikke vist seg. (tid)
+            </div>
+            <p>Altså: <em>Det regner <strong>ennå</strong>, men det var <strong>enda</strong> verre i går.</em></p>
+            <div class="note">
+                <strong>MERK:</strong> I vanlig bokmål kan <em>enda</em> brukes både om grad og tid. I NTB
+                holder vi på det tradisjonelle skillet mellom de to. Mens Språkrådet godkjenner for eksempel
+                «De er ikke kommet enda», skal vi i NTB bruke tidsadverbet: «De er ikke kommet <strong>ennå</strong>».
+            </div>
+        </section>
+
+        <section id="ede-ete" class="rule-section">
+            <h3>-ede/-ete</h3>
+            <p>
+                Adjektiver som er avledet av <strong>verb</strong>, bøyes med <strong>-ede</strong>:
+                <em>elskede</em> (av å elske).
+            </p>
+            <div class="example">
+                Vi skriver altså <strong>lagrede, begrensede, fargede</strong> osv. – ikke <em>lagrete,
+                begrensete</em> e.l.
+            </div>
+            <p>
+                Adjektiver som er avledet av <strong>substantiv</strong>, bøyes som hovedregel med
+                <strong>-ete</strong>: <em>fillete</em> (av en fille), <em>rutete</em> (av en rute),
+                <em>flekkete</em> (av en flekk).
+            </p>
+            <p>
+                Men sammensatte adjektiver bøyes med <strong>-ede</strong>: <em>kortermede, firkantede,
+                encellede</em>.
+            </p>
+            <h4>Ulik bøying gir ulik betydning</h4>
+            <p>Noen ord kan bøyes på begge måter og får da ulik betydning:</p>
+            <div class="example">
+                En stein<strong>ete</strong> strand (adjektivet er avledet av substantivet <em>en stein</em>).<br>
+                De stein<strong>ede</strong> martyrene (adjektivet er avledet av verbet <em>å steine</em>).
+            </div>
+            <div class="note">
+                <strong>Huskeregel:</strong> Er du i tvil, skal det trolig være <strong>–ede</strong>.
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <a href="/">← Tilbake til ordlisten</a>
+    </footer>
+</body>
+</html>
