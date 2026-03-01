@@ -2,6 +2,9 @@
 
 Nettbasert søk i NTBs rettskrivningsordliste. Fullstendig TypeScript — søkelogikken kjører på serveren via et JSON API.
 
+![Screenshot 2026-03-01 at 22 17 34](https://github.com/user-attachments/assets/62cbabd8-c5a3-4a4a-9d5b-0a21dfe8fc90)
+
+
 ## Kjør lokalt
 
 ```sh
