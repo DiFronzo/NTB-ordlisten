@@ -4,7 +4,7 @@ Nettbasert søk i NTBs rettskrivningsordliste, med NTBs språknorm som egen side
 Nettsiden er helt statisk: ordlisten lastes én gang, og søk kjøres lokalt i nettleseren.
 Ingen Deno, API-server eller eksterne kjøretidsavhengigheter er nødvendig.
 
-![Screenshot](https://github.com/user-attachments/assets/62cbabd8-c5a3-4a4a-9d5b-0a21dfe8fc90)
+<img width="1719" height="1266" alt="Screenshot 2026-10-10 at 22 28 15" src="https://github.com/user-attachments/assets/7e633b18-fdbb-48df-84d4-813bd559b9e2" />
 
 ## Kjør lokalt
 
