@@ -86,7 +86,7 @@ aerogram, -met, -mer
 afasi, -en
 afatiker, -en, -e
 affeksjonsverdi, -en
-affekt, -en;
+affekt, -en
 affektasjon, -en
 affektert, -
 affinitet, -en
@@ -335,8 +335,7 @@ Alpene
 alpin, -t
 alpinist, -en
 alpinsk, -
-alsaser, -en, -e; alsasisk, -
-(men Alsace)
+alsaser, -en, -e; alsasisk, - (men Alsace)
 alskens A ub
 alt, -en (stemme)
 alt, -et (univers)
@@ -456,7 +455,7 @@ anemone, -n
 anerkjenne, -kjente
 anestesi, -en
 anfall, -et
-anfekte, -et;
+anfekte, -et
 anfektelse, -n
 anføre, -te
 anførsel, -en, -sler
@@ -969,7 +968,7 @@ avholdende A ub
 avholds/mann, -sak
 avholdt, -
 avhopper, -en, -e
-avhør, -et:
+avhør, -et
 avhøre, -te
 avindsjuk, -t
 avindsjuke, -n
@@ -1064,7 +1063,8 @@ avvise, -te
 avvisning, -en
 avvæpne, -et
 ayatolla, -en
-Azorene b, b-en, b-er
+Azorene
+b, b-en, b-er
 babelsk, -
 bable, -et
 babord S, Av (sjøuttrykk)
@@ -1296,7 +1296,7 @@ bebyrde, -et
 becquerel, -en, fl. - (målenhet) (bq)
 bed, -et (blomster-)
 bedagelig, -
-bed-and-breakfast, et;
+bed-and-breakfast, et
 bed-and-breakfast-hotell
 bedding, -en
 bede/dag, -hus
@@ -1458,7 +1458,7 @@ belysning, -en
 belære, -te
 belønne, -et el. -lønte
 beløp, -et
-beløpe (seg til), -løp, -1øp(e)t
+beløpe (seg til), -løp, -løp(e)t
 bemanne, -et
 bemanning, -en
 bemektige, -et
@@ -1702,7 +1702,7 @@ bigami, -et
 bigamist, -en
 bigott
 bigotteri, -et
-bihule, -n; -betennelse, n
+bihule, -n; -betennelse, -n
 biinntekt, -en
 bijouteri, -et, fl. - el. -er
 bikini, -en
@@ -1775,8 +1775,7 @@ bistand, -en
 bister, -t, bistre
 bistro, -en (kro)
 bit, -en, -er (mat-)
-bit, -en, fl. -, -ene
-(enhet for datamengde = 1/8 byte)
+bit, -en, fl. -, -ene (enhet for datamengde = 1/8 byte)
 bite, bet, bitt
 bi/ting, -tone
 bitt, -et
@@ -1819,7 +1818,7 @@ blasfemi, -en
 blasfemisk, -
 blass, blast
 blei, -en
-bleie, -a el. -en;
+bleie, -a el. -en
 bleievask
 bleik el. blek, -t
 bleike el. bleke, -te el. -et; -middel
@@ -2135,7 +2134,7 @@ bre S, -en (is-)
 bre V, -dde (tjære-)
 bre, -dte el. breie
 breikdans, -en
-bred, bredt; -bladet, -bremmet, -bånd, -båndforbindelse;
+bred, bredt; -bladet, -bremmet, -bånd, -båndforbindelse
 brei i sms. som: brei/flabb, -føtt, -kjeft
 bredd, -en (kant, rand)
 breddfull, -fullt
@@ -2240,8 +2239,7 @@ brudeferd, -en
 brudgom, -men
 brudulje, -n
 brugde, -a el. -en
-bruk, -en, et etter til
-(ta i b.; til sitt b.)
+bruk, -en, et etter til (ta i b.; til sitt b.)
 bruk, -et; (jord-, sag-)
 brukbar, -t
 bruke, -te
@@ -2460,8 +2458,7 @@ byll, -en; -e/pest
 bylt, -en
 bypassoperasjon, -en
 byrd, -en (avstamning)
-byrde, -n el. bør, -a el. -en,
-byrde særlig overf.
+byrde, -n el. bør, -a el. -en, byrde særlig overf.
 byrdefull, -fullt
 byrå, -et,-er
 byråd, -en
@@ -2528,7 +2525,7 @@ bøyg, -en
 bøying, -a el. -en
 bøyle, -n
 bøyning, -en
-både â€“ og K
+både – og K
 båe, -n
 bål, -et; -ferd, -en
 bånd, -et; band i: -hund, korn-
@@ -2542,8 +2539,8 @@ bås, -en
 båt, -en
 båt/naust, -ripe
 båts/hake, -mann
-båtstø, -aOrd du ikke finner under c, står kanskje under k eller s.
-c, c-en, c-er
+båtstø, -a
+c, c-en, c-er (Ord du ikke finner under c, står kanskje under k eller s.)
 ca. = cirka
 cabincruiser, -en, -e
 café-au-lait, -en
@@ -2563,12 +2560,7 @@ Canada
 canadier, -en, -e
 canadisk, -
 cancan, -en (dans)
-cand. (= candidatus); cand.jur.,
-cand.mag., cand.med., cand.odont.,
-cand.oecon., cand.paed., cand.pharm.,
-cand.philol., cand.philos., cand.polit.,
-cand.psychol., cand.real., cand.scient.,
-cand.sociol., cand.theol.
+cand. (= candidatus); cand.jur., cand.mag., cand.med., cand.odont., cand.oecon., cand.paed., cand.pharm., cand.philol., cand.philos., cand.polit., cand.psychol., cand.real., cand.scient., cand.sociol., cand.theol.
 cannabis, -en
 cape, -n
 carte (à la c.)
@@ -2726,7 +2718,8 @@ cymbal, -en (musikkinstrument)
 cyste, -n
 Cæsar
 cæsarisk, -
-cøliaki, -end, d-en, d-er
+cøliaki, -en
+d, d-en, d-er
 da Av, K
 daa = dekar
 dabbe, -et
@@ -2866,7 +2859,7 @@ dekorasjon, -en
 dekorativ, -t
 dekoratør, -en
 dekorere, -te
-dekret, -et, fl. - el. â€“er
+dekret, -et, fl. - el. –er
 dekryptere, -te
 deksel, -et, fl. - el. -sler
 del, -en
@@ -2885,7 +2878,7 @@ delikatesse, -n
 delinkvent, -en
 delirium, -iet
 delje, -et
-dels â€“ dels
+dels – dels
 delta, -et, -er, -ene
 delta, -tok, -tatt
 deltakelse, -n
@@ -3165,7 +3158,7 @@ distré, -, fl. - el. -e
 distribuere, -te
 distribusjon, -en
 distrikt, -et, -er
-distriktshøyskole, -n (1969â€“94)
+distriktshøyskole, -n (1969–94)
 dit hen Av
 dit opp, dit ut Av
 ditt og datt
@@ -3206,10 +3199,7 @@ dojang, -en (treningssal for taekwondo)
 dojo, -en (treningssal for karate)
 dokk, -en (tørr-)
 dokter, -en (kaffe-)
-doktor, -en; dr.agric., dr.art.,dr.ing., dr.jur. el. juris,
-dr.med., dr.med.vet.,
-dr.odont., dr.philos.,
-dr.scient., dr.techn., dr.theol.
+doktor, -en; dr.agric., dr.art., dr.ing., dr.jur. el. juris, dr.med., dr.med.vet., dr.odont., dr.philos., dr.scient., dr.techn., dr.theol.
 doktorand, -en
 doktorere, -te
 doktrine, -n
@@ -3319,7 +3309,7 @@ drastisk, -
 dratte, -et
 draug, -en
 drawback, -en, el. -et fl. -
-dreadlocks, -ene fl,  jf. rastahår
+dreadlocks, -ene fl, jf. rastahår
 dregg, -en
 dregge, -et
 dreie, -et el. -de
@@ -3582,7 +3572,8 @@ dåre, -et
 dårlig, -
 dårlighet, -en
 dårskap, -en
-dåse, -n; -mikkel, -en, -miklere, e-en, e-er
+dåse, -n; -mikkel, -en, -mikler
+e, e-en, e-er
 eau de cologne, -n
 ebbe S, -n
 ebbe V, -a/-et
@@ -3611,7 +3602,7 @@ edruelighet, -en
 edruskap, -en
 edsvoren, -t, -rne
 E-dur (toneart)
-EF (= De europeiske fellesskap â€“
+EF (= De europeiske fellesskap –
 forløper til EU)
 effekt, -en
 effektiv, -t
@@ -3649,7 +3640,7 @@ egotripp, -en
 egse S, -t (opphisselse)
 egse (seg) V, -a/-et el. -te
 Egypt
-egypter, -en, -e;
+egypter, -en, -e
 egyptisk, -
 ei Av (= ikke)
 ei, artikkel og tallord; jf. en
@@ -3885,7 +3876,7 @@ endatil Av
 ende S, -n
 ende V, endte
 endefram, - el. -t, -me el. -frem
-ende fram el. frem Av
+ende fram Av
 endekker, -en, -e
 en del
 endelig, -
@@ -3932,7 +3923,7 @@ enhver, ethvert
 enig, -
 enighet, -en
 enke, -a el. -en
-enkel, -t , -kle
+enkel, -t, -kle
 enkelhet, -en
 enkelt, -; -billett
 enkét, -en
@@ -3957,7 +3948,7 @@ ensom, -t, -me
 ensomhet, -en
 en suite Av
 entall, -et
-enten â€“ eller K
+enten – eller K
 entente, -n
 entertainer, -en, -e
 entomolog, -en
@@ -4157,7 +4148,8 @@ evolusjonisme, -n
 evolusjonist, -en
 evolusjonistisk, -
 examen artium
-EØS; EØS-avtalenf, f-en, f-er
+EØS; EØS-avtalen
+f, f-en, f-er
 fabel, -en, fabler
 fabelaktig, -
 fable, -et
@@ -4168,7 +4160,7 @@ fabrikk, -en
 fabrikkere, -te
 fabulere, -te
 fadder, -en, -e
-fader, -en, fedre;
+fader, -en, fedre
 Gud Fader; jf. far
 faderlig, -
 fader/løs (enker og faderløse), jf. farløs; -morder, -en, -e
@@ -4386,9 +4378,9 @@ feminist, -en
 feministisk, -
 femmer, -en, -e
 femte (5.)
-femten (15);
+femten (15)
 femtende (15.)
-femti (50);
+femti (50)
 femtiende (50.)
 Femunden
 fena/knoke, -n; -lår, -et
@@ -4585,7 +4577,7 @@ fjelge, -a/-et
 fjell, -et
 fjelland el. fjell-land
 fjellbu, -en -fjells (vesta-)
-fjellvidde, -a  -fjelsk, - (vesta-)
+fjellvidde, -a -fjelsk, - (vesta-)
 fjerde (4.)
 fjerding, -en
 fjern, -t
@@ -4621,7 +4613,7 @@ fjærfe, -et
 fjærvekt; -s/bokser, -en
 fjøl, -a
 fjøs, -et, fl. -
-f.Kr. = før Krisus
+f.Kr. = før Kristus
 flabb, -en
 flabbet(e) A
 flagellant, -en
@@ -5083,7 +5075,7 @@ forlyde, -lød, -lydt
 forlydende, -t, -r, -ne
 forløfte (seg), -et
 forløp, -et
-forløpe, -løp, -1øp(e)t
+forløpe, -løp, -løp(e)t
 form, -en
 formalia, fl.
 formalisere, -te
@@ -5363,7 +5355,7 @@ frakk, -en
 frakkeskjøt, -et
 fraksjon, -en
 frakt, -en
-frakte, -et;
+frakte, -et
 fraktur, -en
 fralandsvind, -en
 fram Av
@@ -5737,7 +5729,8 @@ fåfengt, -
 fåmælt, -
 får, -et (sau)
 fårikål, -en
-fåtall, -etg, g-en, g-er
+fåtall, -et
+g, g-en, g-er
 g = gram
 gabardin, -en
 Gabon
@@ -5812,7 +5805,7 @@ garantist, -en
 garasje, -n
 gard, -en (ski-)
 gard, -en el. gård, -en
-gard/folk, -imellom, -jente, -kjerring,
+gard/folk, -imellom, -jente, -kjerring
 gard- el. gård/bruker, -eier, -kjøp, -salg, -skifte
 garde, -n; -kaserne
 gardere, -te
@@ -6336,7 +6329,7 @@ grein, -a el. -en el. gren, -en
 greine (seg), -et el. grene, -et
 greinet(e) el. grenet(e) A
 greip, -et (redskap)
-greker, -en, -e;
+greker, -en, -e
 grell, grelt
 gremme (seg), -et
 gren, -en el. grein, -a el. -en
@@ -6591,7 +6584,7 @@ gåen, -t, -e (sliten)
 gågate, -a
 gård, -en el. gard, -en
 gård- el. gard/bruker, -eier, -kjøp, -salg
-gårds- el. gards/arbeid, -bruk, -drift, -gutt, -nummer,  -turisme
+gårds- el. gards/arbeid, -bruk, -drift, -gutt, -nummer, -turisme
 gårds/
 plass, -rom
 gårsdag, -en
@@ -6600,7 +6593,8 @@ gå-sakte-aksjon, -en
 gåse/gang, -gump
 gåstol, -en
 gåte, -n
-gåtefull, -fullth, h-en, h-er
+gåtefull, -fullt
+h, h-en, h-er
 H = Høyre
 ha = hektar
 ha, hadde, hatt; has
@@ -6766,7 +6760,7 @@ haud, -en
 haug, -en
 Haugesund
 haugevis Av
-haugianer, -en, -e,
+haugianer, -en, -e
 hauk, -en
 hauke, -a/-et
 haus, -en (hard-)
@@ -6807,7 +6801,7 @@ heder, -en
 hederlig, -
 hederlighet, -en
 Hedmark (fylke)
-Hedmarken (bygdene øst for Mjøsa
+Hedmarken (bygdene øst for Mjøsa)
 hedmarking, -en
 hedning, -en; -misjon
 hedonisme, -n
@@ -7102,7 +7096,7 @@ hjelpe, hjalp, hjulpet
 hjelpe/løs, -t; -middel, -et, -midler
 hjelpesmann, -en
 hjelpsom, -t, -me
-hjem, -met, fl. - , -mene (heim i: heim/føding, -kunnskap, -stadlære)
+hjem, -met, fl. -, -mene (heim i: heim/føding, -kunnskap, -stadlære)
 hjem Av
 hjemle, -et
 hjemlig, -
@@ -7120,10 +7114,8 @@ hjerte, -t; -kule, -a el. -en
 hjertelig, -
 hjertelighet, -en
 hjertens Av (h. enig)
-hjerter, -en, -e
-(spillkort)
-hjerter, -en, fl. -
-(melding i bridge)
+hjerter, -en, -e (spillkort)
+hjerter, -en, fl. - (melding i bridge)
 hjord, -en
 hjort, -en
 hjortetakk, -en
@@ -7143,12 +7135,11 @@ hode/kulls Av, -stups Av
 hoff, -et
 hofferdig, -
 hoffolk el. hoff-folk
-hofte, -a el. â€“en
-hofte/holder, -en, -e;
+hofte, -a el. –en
+hofte/holder, -en, -e
 hofte/knekk, -ledd
 hogg, -et
-hogge, hogg el. hogde,
-hogd
+hogge, hogg el. hogde, hogd
 hoggestabbe, -n
 hoggorm, -en
 hogst, -en
@@ -7267,8 +7258,7 @@ huke (seg ned), -te
 hukommelse, -n
 hul, -t
 hulag, -et (på hest)
-hulder, huldra, huldrer,
-huldrene
+hulder, huldra, huldrer, huldrene
 huldre/eventyr, -lokk
 hule S, -n
 hule V, -te (h. ut)
@@ -7368,7 +7358,7 @@ hvelv, -et (bank-)
 hvelv, -et (båt-)
 hvelve, -a/-et
 hvelving, -en
-hvem  P
+hvem P
 hvem sin el. hvis P
 hvem som helst
 hver P, hvert
@@ -7394,7 +7384,7 @@ hviske, -et
 hvit, -t
 hvite, -n (i egg)
 hviterusser, -en, -e
-Hviterussland
+Hviterussland, nå: Belarus
 hvitevarer, fl.
 hvitne, -et
 hvit/rev, -en; -symre, -a
@@ -7534,8 +7524,7 @@ høyst Av (h. rimelig, h.sannsynlig)
 høyst/bydende, -ærede
 høytid, -en
 høytidelig, -
-høytlønt, fl. -e
-(men høylønnsgruppe)
+høytlønt, fl. -e (men høylønnsgruppe)
 høytrykk, -et
 høyttaler, -en
 høyttravende
@@ -7548,7 +7537,7 @@ Hålogaland
 hån, -en
 hånd, -en, hender
 hånd/arbeid, -bak, -flate
-håndfull, -en, -er, -ene;
+håndfull, -en, -er, -ene
 håndgemeng, -et, fl. - el. -er, -ene
 håndgrep, -et
 håndgripelig, -
@@ -7560,7 +7549,7 @@ håndtere, -te
 håndvending, -en
 håndverker, -en, -e
 håne, -et el. -te
-hånflir, -en el. â€“et
+hånflir, -en el. –et
 hånlatter, -en
 hånsk, -
 hånsord, -et
@@ -7574,7 +7563,8 @@ hårfin, -t
 hårsbredd, en
 hårsår, -t
 håv, -en (fiske-)
-håve, -eti, i-en, i-er
+håve, -et
+i, i-en, i-er
 i Prp
 i aften, i aftes
 iaktta, -tok, -tatt
@@ -7648,7 +7638,7 @@ iglo, -en
 ignorant, -en
 ignorere, -te
 i grunnen
-i går; i går kveld;
+i går; i går kveld
 i går morges
 i hende
 ihendehaver, -en, -e
@@ -7982,8 +7972,7 @@ innvoller, fl.
 innvortes, -
 innvåner, -en, -e
 innynde (seg), -et
-input, -en, fl. - , -ene,
-jf. tilbakemelding
+input, -en, fl. -, -ene, jf. tilbakemelding
 insekt, -et, -er
 inseminasjon, -en
 inseminere, -te
@@ -8027,8 +8016,7 @@ intelligens, -en
 intelligent, -
 intendant, -en
 intendantur, -en
-intendere, -te
-(ha til hensikt)
+intendere, -te (ha til hensikt)
 intens, -t
 intensitet, -en
 intensiv, -t
@@ -8205,7 +8193,8 @@ i vår, i våres
 iørefallende A ub
 i øvrig
 iøynefallende A ub
-i årj, j-en, j-er
+i år
+j, j-en, j-er
 ja, -et
 ja I
 jabbe, -a/-et
@@ -8214,7 +8203,7 @@ jafs, -et
 jafse, -et
 jag, -et
 jage, -et el. -de
-jager, -en, -e, ne; -fly
+jager, -en, -e, -ne; -fly
 jaguar, -en
 jakke, -a el. -en
 jakt, -a el. -en (båt)
@@ -8251,7 +8240,7 @@ jaså Av
 ja så menn
 jatte (med), -a/-et
 Java
-javaneser, -en, -e;
+javaneser, -en, -e
 javanesisk, -
 ja vel
 ja visst
@@ -8269,7 +8258,7 @@ Jeløya
 Jemen
 jemenitt, -en
 jemenittisk, -
-Jemtland, svensk:
+Jemtland, svensk
 Jämtland
 jemtlending, -en
 jenka, -en (dans)
@@ -8345,7 +8334,7 @@ jordslått, -
 jordsmonn, -et
 jordvei
 jorte, -a/-et (tygge drøv)
-jotun, -en el. jotnen,
+jotun, -en el. jotnen
 fl. jotner
 Jotunheimen
 joule, -n (energienhet)
@@ -8356,14 +8345,12 @@ journalistikk, -en
 journalistisk, -
 jovial, -t
 jovialitet, -en
-joystick, -en, -er, -ene,
-jf. styrespak
+joystick, -en, -er, -ene, jf. styrespak
 jubalong, -en
 jubel, -en; -år
 jubilant, -en
 jubilere, -te
-jubileum, jubileet,
-jubileer, jubileene
+jubileum, jubileet, jubileer, jubileene
 juble, -et
 judo, -en
 juge, -de
@@ -8377,7 +8364,7 @@ jugoslavisk, -
 jukeboks, -en
 juks, -et
 jukse S, -a (fiskeredskap)
-jukse V, -a/-et;
+jukse V, -a/-et
 juksemaker, -en, -e
 jul, -a el. -en
 julaften, -en
@@ -8416,16 +8403,14 @@ jyde, -n (person fra Jylland)
 Jylland
 jypling, -en
 jysk, - (fra Jylland)
-jækel, -en, jækler,
-jæklene, jf. jævel
+jækel, -en, jækler, jæklene, jf. jævel
 jækla el. jævla A ub
 jæklig, - el. jævlig, -
 jærbu, -en (person fra Jæren)
 Jæren
 jærsk, - (fra Jæren)
 jærtegn, -et
-jævel, -en, jævler,
-jævlene, jf. jækel
+jævel, -en, jævler, jævlene, jf. jækel
 jævla el. jækla A ub
 jævlig, - el. jæklig, -
 jøde, -n
@@ -8438,7 +8423,8 @@ jål, -et
 jåle S, -a
 jåle V, -a/-et el. -te
 jålebukk, -en
-jålet(e) Ak, k-en, k-er
+jålet(e) A
+k, k-en, k-er
 Kabaen (i Mekka)
 kabal, -en
 kabaret, -en
@@ -8618,7 +8604,7 @@ kappes, kaptes, har kappes
 kapp/leik, -løp, -ruste
 kapre, -et
 kaprer, -en, -e
-kaprifol, -en;
+kaprifol, -en
 kapsel, -en, -sler
 kaptein, -en
 kapusiner, -en, -e; -munk
@@ -8685,11 +8671,10 @@ kartotek, -et, fl. - el. -er
 karusell, -en
 karve S, -n
 karve V, -a/-et
-kasakher, -en, -e
-(etnisk gruppe)
+kasakher, -en, -e (etnisk gruppe)
 kasakhisk, - (etnisk)
 Kasakhstan
-kasakhstaner, -en, -e, ne(nasjonalitet)
+kasakhstaner, -en, -e, -ne (nasjonalitet)
 kasakhstansk, - (nasjonalt)
 kasbah, -en
 kaserne, -n
@@ -8987,8 +8972,7 @@ kjøtt, -et
 kjøttmeis, -en
 klabb, -en, -er
 klabbe, -a/-et; jf. kladde
-klabbeføre, -t;
-jf. kladdeføre
+klabbeføre, -t; jf. kladdeføre
 kladas, -en
 kladd, -en
 kladde, -et
@@ -9024,8 +9008,7 @@ klaps, -et
 klapse, -et
 klar, -t
 klare, klarte, klart (greie)
-klare, klaret, klaret
-(om suppe)
+klare, klaret, klaret (om suppe)
 klarere, -te
 klarhet, -en
 klarinett, -en
@@ -9088,7 +9071,7 @@ klient, -en
 klientell, -et, fl. - el. -er
 klikk, -en (slå k.)
 klikke, -a/-et
-klima, -et;
+klima, -et
 klima/endring, -flyktning
 klimaks, -et
 klimakvote, -n, -r
@@ -9199,11 +9182,9 @@ kløpper, -en, -e
 kløtsj, -en
 kløv, -en
 kløve, -de el. kløyve
-kløver, -en, fl. - el. -e
-(plante; spillkort)
+kløver, -en, fl. - el. -e (plante; spillkort)
 kløvhest, -en
-kløvje, -a/-et
-(frakte med kløv)
+kløvje, -a/-et (frakte med kløv)
 kløvsal, -en
 kløyve, -de el. kløve (k. ved)
 klå, -dde
@@ -9243,8 +9224,7 @@ kneipe, -a el. -en
 kneippbrød, -et
 kneise, -te
 knekk, -en el. -et
-knekke, knakk, knekket
-(intr.)
+knekke, knakk, knekket (intr.)
 knekke, knekte, knekt (tr.)
 knekt, -en
 knele, -te
@@ -9274,8 +9254,7 @@ knockout, -en
 knoke, -n
 knokkel, -en, knokler
 knoll, -en
-knop, -en, fl. -
-(8 knops fart)
+knop, -en, fl. - (8 knops fart)
 knopp, -en
 knoppe (seg), -et
 knot, -et
@@ -9445,8 +9424,7 @@ kompetent, -
 kompis, -en
 kompleks, -et, -er
 kompleks, -t
-komplement, -et, -er
-(i grammatikk)
+komplement, -et, -er (i grammatikk)
 komplementær, -t
 komplementærfarge, -n
 komplett, -
@@ -9801,11 +9779,9 @@ kre, -et
 kreasjon, -en
 kreativ, -t
 kreativitet, -en
-kreatur, -et, -er;
-jf. krøtter
+kreatur, -et, -er; jf. krøtter
 kredibilitet, -en
-kredit
-(k. og debet)
+kredit (k. og debet)
 kreditere, -te
 kreditor, -en, -er
 kreditt, -en
@@ -9855,7 +9831,7 @@ kriminell, -elt
 kriminologi, -en
 krimskrams, -et
 kringkaste, -et
-kringkasting, -a el. -en;
+kringkasting, -a el. -en
 kringle, -a
 kringsette, -satte, -satt
 krinkel, -en, -kler; -krok, -en
@@ -10175,7 +10151,7 @@ kvikne, -et
 Kvinesdal
 kvinne, -n
 kvinnelig, -
-kvinnfolk, -et, fl. - , -a el. -ene
+kvinnfolk, -et, fl. -, -a el. -ene
 Kvinnherad
 kvint, -en
 kvintessens, -en
@@ -10193,7 +10169,7 @@ kvittering, -en
 kvote, -n
 kvotient, -en
 Kw = kilowatt
-kWh = kilowatttime
+kWh = kilowattime
 kybernetikk, -en
 kykeliky, et
 kyklop, -en
@@ -10243,7 +10219,8 @@ kåring, -en
 kåsere, -te
 kåseri, -et, -er
 kåsør, -en
-kåt, -l, l-en, l-er
+kåt, -
+l, l-en, l-er
 l = liter
 la lot, latt
 lab, -en (laboratorium)
@@ -10341,8 +10318,7 @@ langsetter Prp
 langsiktig, -
 langsmed Prp
 langsom, -t, -me
-langt Av, lenger, lengst
-(jf. lang A og lenge Av)
+langt Av, lenger, lengst (jf. lang A og lenge Av)
 langt (i)fra Av
 langtidsfravær, -et
 lanse, -n
@@ -10379,7 +10355,7 @@ lasur, -en; -blått
 lat, -
 latskap, -en
 late (seg), -et
-late, lot, latt (l. som, l. livet,l. til)
+late, lot, latt (l. som, l. livet, l. til)
 lateksmaling, -a el. -en
 latent, -
 latin, -en
@@ -10410,8 +10386,7 @@ lavine, -n; -hund
 lavkirkelig, -
 lavlønns/gruppe; -yrke (men lavtlønt)
 lav/mælt, -spent
-lavtlønt, fl. lavtlønte
-(men lavlønnsgruppe)
+lavtlønt, fl. lavtlønte (men lavlønnsgruppe)
 lav/trykk, -vann
 lavvo, -en
 layout, -en
@@ -10426,7 +10401,7 @@ ledd, -et
 leddyr, -et el. ledd-dyr
 leddgikt, -a el. -en
 lede, -n S (ulyst)
-lede V, -et (føre, styre); jf.  leie
+lede V, -et (føre, styre); jf. leie
 ledelse, -n
 leder, -en, -e; -type
 ledig, -; -gang, -en
@@ -10495,7 +10470,7 @@ lek S, -en
 lek A (l. og lærd)
 lekdommer, -en
 leke, -n (leketøy)
-leke, -te;
+leke, -te
 leken, -t, lekne
 leketøy, -et
 lekk S, -en
@@ -10517,8 +10492,7 @@ lektor, -en, -er
 lektyre, -n
 lell = likevel Av
 lem, -men, -mer (kjeller-)
-lem, -met, -mer
-(legemsdel)
+lem, -met, -mer (legemsdel)
 lemen, -et, fl. - el. -er; -vandring
 lemfeldig, -
 lemleste, -et
@@ -10543,7 +10517,7 @@ lengte, -et
 lenk, -en
 lenke S, -n
 lenke V, -et
-lens A ub (fri for;â€ƒ slå l.)
+lens A ub (fri for; slå l.)
 lense S, -a el. -en (tømmer-)
 lense V, -et
 lensherre, -n
@@ -10624,7 +10598,7 @@ libretto, -en
 Libya
 libyer, -en, -e
 libysk, -
-lic. (fork. for licentiatus (= lisensiat)
+lic. (fork. for licentiatus (= lisensiat))
 liddelig Av (veldig)
 lidderlig, - (grov, slibrig)
 lide, led, lidd el. lidt
@@ -10819,7 +10793,7 @@ lokk, -en (ku-)
 lokk, -et (gryte-)
 lokke, -et
 lokkefat, -et
-lokomotiv, -et, -er;
+lokomotiv, -et, -er
 lok(omotiv)fører, -en, -e
 lokum, -et
 Lom
@@ -10857,8 +10831,7 @@ lov, -en (Grunnloven)
 lov, -en el. -et (ros, pris)
 lov S (tillatelse: få l., land-)
 lovart S (sjøuttrykk)
-love, -et el. -te, -et el. -t
-(gi løfte)
+love, -et el. -te, -et el. -t (gi løfte)
 love, -et (prise)
 lovende A ub
 lovformelig, -
@@ -10871,14 +10844,12 @@ lovott, -en
 lovprisning, -en
 lovsang, -en
 lovstridig, -
-LP, LP-en, LP-er
-(long play-plate)
+LP, LP-en, LP-er (long play-plate)
 LSD (lysergsyredietylamid)
 lubben, -t, lubne
 ludder, -et, fl.-e
 ludo, -en
-lue S, -a el. -en
-(hodeplagg)
+lue S, -a el. -en (hodeplagg)
 lue S, -n (flamme)
 lue V, -et
 luffe, -n (på hval)
@@ -10954,8 +10925,7 @@ luxembourger, -en, -e
 luxembourgsk, -
 ly, -et (vern, dekke)
 lyd, -en; -bånd, -bok
-lyde, lød, lydt
-(tone; adlyde)
+lyde, lød, lydt (tone; adlyde)
 lydelig, -
 lydfilm, -en
 lydhør, -t
@@ -11066,16 +11036,14 @@ løsøre, -t
 Løten
 løv, -et
 løve, -n
-løvetann, -a el. -en
-fl. - el. -er
+løvetann, -a el. -en, fl. - el. -er
 løv/skog, -tre
 løye, -et (spakne)
-løyen, -t, løyne
-(morsom)
+løyen, -t, løyne (morsom)
 løyer, fl. (spillopper)
 løyerlig, - (rar)
 løyndom, -men
-løyne, -te, -t (skjule);
+løyne, -te, -t (skjule)
 løype, -a (ski-)
 løype, -n (oste-)
 løypestreng, -en
@@ -11089,7 +11057,7 @@ låk, -t (dårlig)
 låm, -a el. -en (løype)
 lån, -et
 låne, -te
-lån/giver,  -ord, -taker
+lån/giver, -ord, -taker
 lår, -et
 låre, -et el. -te (fire)
 lårhals, -en; -brudd
@@ -11098,7 +11066,8 @@ lås, -en
 låse, -te
 låt, -a el. -en
 låte, låt, lått -låten, -t, -tne (små-)
-låve, -n; -bru, -am, m-en, m-er
+låve, -n; -bru, -a
+m, m-en, m-er
 m = meter
 Macao
 machete, -n (krum kniv)
@@ -11275,7 +11244,7 @@ manus, -et, fl. - el. -er
 manuskript, -et, -er
 manøver, -en, -vre(r)
 manøvrere, -te
-maori, -en (urinnvåner fra NewZealand)
+maori, -en (urinnvåner fra New Zealand)
 mappe, -a el. -en
 maraton, -en, -er; -løp, -et
 mare, -n
@@ -11304,7 +11273,7 @@ mark, -en, merker (vekt)
 mark, -en, fl. - (mynt)
 mark, -en, -er el. makk
 markant, -
-marked, -et, -er;
+marked, -et, -er
 markedsføring, -en
 markere, -te
 marki, -en
@@ -11336,8 +11305,7 @@ martyrium, -iet, -ier
 marxisme, -n
 marxist, -en
 marxistisk, -
-marxist-leninist, -en;
-jf. ml-er
+marxist-leninist, -en; jf. ml-er
 mas, -et
 mase, -te (knuse)
 mase, -te; -kopp
@@ -11353,8 +11321,7 @@ maskere, -te
 maskin, -en
 maskinist, -en
 maskinell, -elt
-maskinvare, -n
-(hardware)
+maskinvare, -n (hardware)
 maskot, -en
 maskulin, -t
 masochisme, -n
@@ -11449,8 +11416,7 @@ medisiner, -en, -e
 medisinsk, -
 meditasjon, -en
 meditere, -te
-medium, -iet, medier,
-mediene
+medium, -iet, medier, mediene
 medlem, -met, -mer
 medlidende A ub
 medlidenhet, -en
@@ -11469,8 +11435,7 @@ stor)
 megabyte, -n, fl. -, -ne (MB)
 megafon, -en
 megatonn, -et
-meget Av (svært);
-jf. mye
+meget Av (svært); jf. mye
 megge, -a
 megle, -et el. mekle
 megler, -en, -e el. mekler
@@ -11740,7 +11705,7 @@ minne V, -et el. minte
 minnebrikke, -n
 minnelig, -
 minnelighet, -en
-minnes, min(ne)s, mintes,har mintes
+minnes, min(ne)s, mintes, har mintes
 minnesmerke, -t
 minne/pinne, -stein, -taleminneverdig, -
 minoritet, -en
@@ -11804,8 +11769,7 @@ mjaue, -et
 mjød, -en
 mjølke, -n (plante)
 Mjøsa; mjøsbåt, -en
-ml-er, -en, -e;
-jf. marxist-leninist
+ml-er, -en, -e; jf. marxist-leninist
 mm = millimeter
 m.m. = med mer
 Mo i Rana
@@ -12009,8 +11973,7 @@ motstrebende A ub
 motta, -tok, -tatt
 mottak, -et
 mottakelig, -
-mottakelse, -n;
-jf. mottaking
+mottakelse, -n; jf. mottaking
 mottaker, -en, -e
 mottaking, -en; jf. mottakelse
 motto, -et, -er
@@ -12147,8 +12110,7 @@ myr/lendt, -malm
 myrra, -en
 myrsnipe, -a
 myrt, -en
-myse S, -a el. -en
-(i osteprod.)
+myse S, -a el. -en (i osteprod.)
 myse V, -te
 mysli, -en (kornblanding)
 mysost, -en
@@ -12237,7 +12199,8 @@ måteholden, -t, -dne
 måtelig, -
 måtte, må, måtte, har
 måttet
-må vite Avn, n-en, n-er
+må vite Av
+n, n-en, n-er
 nabb, -en (knagg)
 nabbe, -n (bergknatt)
 nabo, -en
@@ -12615,13 +12578,13 @@ Norrland
 norrøn, -t
 Norsjø (Telemark)
 norsk, -; -amerikaner, -en
+Norsk Tipping
 Norskehavet
 norskekysten
 Norskerenna
 nostalgi, -en
 nostalgisk, -
-not, -a, nøter, nøtene
-(fiske-)
+not, -a, nøter, nøtene (fiske-)
 not, -a, -er, -ene (renne i bord)
 nota, -en (regning)
 notabene Av (NB)
@@ -12654,8 +12617,7 @@ nulte tallord (n. time)
 Numedal; numedøl, -en
 numerisk, -
 nummen, -t, numne
-nummer, -et, numre,
-numrene
+nummer, -et, numre, numrene
 nummerere, -te
 nunatak, -en
 nupereller, fl.
@@ -12689,7 +12651,7 @@ nynn, -et
 nynne, -et
 nynorsk, -en
 nynorsk, -
-nype, -a el. -en; -rose,
+nype, -a el. -en; -rose
 nyre, -n
 nyse, nøs, nyst
 nysgjerrig, -
@@ -12703,8 +12665,7 @@ nytte S, -n
 nytte V, -et
 nyttig, -
 nyttår, -et
-nyttårsaften, -en,
-fl. -aftener, -aftenene
+nyttårsaften, -en, fl. -aftener, -aftenene
 nyve, -a el. -en
 nyår, -et
 nær, -(m)ere, -(m)est
@@ -12718,8 +12679,7 @@ næringsvei, -en
 næringsvett, -et
 nærme (seg), -et
 nærme Av
-nærmere A ub, nærmest
-(til nær)
+nærmere A ub, nærmest (til nær)
 nærmiljø, -et
 nær sagt
 nærsynt, -
@@ -12778,7 +12738,8 @@ når som helst
 nåtid, -en
 nå til dags
 nåvel Av
-nåværende A ubo, o-en, o-er
+nåværende A ub
+o, o-en, o-er
 o.a. = og annet/andre
 oase, -n
 obduksjon, -en
@@ -12877,7 +12838,7 @@ olding, -en
 old/saker, -tid
 oldsak(s)samling, -a el. -en
 oleander, -en, -e
-oligarki, -et, -er;
+oligarki, -et, -er
 oligarkisk, -
 oliven, -en; -olje
 olje S, -n
@@ -13024,7 +12985,7 @@ oppfattelse, -n
 oppfinne, -fant, -funnet
 oppfinnelse, -n el.
 oppfinning, -en
-oppfinnsom, -t, -me;
+oppfinnsom, -t, -me
 oppfinnsomhet, -en
 oppfor Av, Prp
 oppfordre, -et
@@ -13094,8 +13055,7 @@ opportunistisk, -
 opposisjon, -en
 opposisjonell, -elt
 oppover Av, Prp
-opp på (klatre o. taket);
-jf. oppå
+opp på (klatre o. taket); jf. oppå
 oppramsing, -en
 oppredd (seng)
 oppreisning, -en
@@ -13169,8 +13129,7 @@ oppvask, -en
 oppvekst, -en
 oppvigle, -et
 oppøst, - (opphisset)
-oppå Prp (o. skapet);
-jf. opp på
+oppå Prp (o. skapet); jf. opp på
 opsjon, -en
 optiker, -en, -e
 optikk, -en
@@ -13273,8 +13232,7 @@ oter, -en, -e
 otium, -et el. otiet
 otte, -a (i otta)
 otte, -n (frykt)
-ottes, ottes, har ottes
-(frykte)
+ottes, ottes, har ottes (frykte)
 ottesang, -en
 ottoman, -en
 output, -en
@@ -13408,7 +13366,8 @@ ovulasjon, -en (eggløsning)
 ovulere, -te
 ozelot, -en (pelsdyr)
 ozon, -et
-ozon/lag, -hullp, p-en, p-er
+ozon/lag, -hull
+p, p-en, p-er
 pace, -a/-et el. -te
 pacemaker, -en, -e
 padde, -a
@@ -13524,8 +13483,7 @@ paraguayaner, -en, -e
 paraguayansk, -
 parallell S, -en
 parallell A, -elt
-parallellogram, -met,
-fl. -mer
+parallellogram, -met, fl. -mer
 Paralympics
 paralyse, -n
 paralysere, -te
@@ -13610,8 +13568,7 @@ pasje, -n
 pasjon, -en
 pasjonert, -
 paso doble, -n
-pass, -en, fl. - el. -er
-(melde p.)
+pass, -en, fl. - el. -er (melde p.)
 pass, -et, -, -ene (fjellovergang;
 legitimasjonsbevis)
 pass, -et (p. og stell)
@@ -13724,8 +13681,7 @@ penicillin, -et
 penis, -en
 penn, -en
 pennal, -et, -er
-penny, -en, fl. pence,
-pencene
+penny, -en, fl. pence, pencene
 pens, -en
 pense, -et
 pensel, -en, -sler
@@ -13877,7 +13833,7 @@ pinaktighet, -en
 pine S, -n
 pine V, -te
 pinefull, -fullt
-pingle, -a el. â€“en
+pingle, -a el. –en
 pinglet(e) A
 pingpong, -en
 pingvin, -en
@@ -13887,14 +13843,12 @@ pinlig, -
 pinlighet, -en
 pinne, -n
 pinn/svin, -et el. pigg-
-pins, -en, fl. -, -ene
-(jakkemerke)
+pins, -en, fl. -, -ene (jakkemerke)
 pinse, -n
 pinsel, -en, -sler
 pinsett, -en
 pinsevenn, -en
-pion, -en el. peon, -en
-(blomst)
+pion, -en el. peon, -en (blomst)
 pioner, -en
 pip, -et
 pipe, -a el. -en
@@ -13917,7 +13871,7 @@ pistol, -en
 pistre, -et
 pistret(e) A
 pitabrød, -et
-pitbull, -enâ€ºâ€‚-terrier
+pitbull, -en; -terrier
 pittoresk, -
 pizza, -en
 pizzeria, -en, -er
@@ -13995,8 +13949,7 @@ pleier, -en, -e
 plekter, -et, -tre
 plen, -en
 plent Av
-plenum, -et, fl. plena,
-plenaene
+plenum, -et, fl. plena, plenaene
 plenumsmøte, -t
 plett, -en (flekk)
 plett, -en (metall)
@@ -14124,7 +14077,7 @@ popkorn, -et
 poplin, -et
 pop S, -en
 pop A ub
-pop/artist, -gruppe,
+pop/artist, -gruppe
 poppel, -en, popler
 popularisere, -te
 popularitet, -en
@@ -14486,11 +14439,10 @@ prøving, -en (p. og feiling)
 prøvesprengning, -en
 prøverør, -et; -s/barn
 prøvet, fl. -ede
-prøysser, -en, -e;
+prøysser, -en, -e
 prøyssisk, - (men
 Preussen)
-PS = postskriptum
-(etterskrift)
+PS = postskriptum (etterskrift)
 pseudo- (falsk)
 pseudonym, -et
 psoriasis, -en (hudsykdom)
@@ -14516,8 +14468,7 @@ psykose, -n
 psykosomatisk, -
 psykoterapeut, -en
 psykotisk, -
-p.t. fork. for pro tempore
-= for tiden
+p.t. fork. for pro tempore = for tiden
 ptolemeisk, -
 ptro I
 pub, -en (kro)
@@ -14682,7 +14633,7 @@ pålydende A ub (p. verdi)
 påmelding, -a el. -en
 påminnelse, -n
 påminning, -en
-påâ€™n igjen
+på’n igjen
 på ny el. på nytt
 påpakning, -en
 pårørende, en
@@ -14702,8 +14653,7 @@ påståelig, -
 påtakelig, -
 påtale, -n
 påtale, -te
-påtalemyndighet, -en
-(bare entall!)
+påtalemyndighet, -en (bare entall!)
 påtegning, -en
 på tide
 på timen
@@ -14711,14 +14661,16 @@ påtrengende A ub
 på tverke, på tvers
 på vei
 påvirke, -et
-påvirkning, -enq, q-en, q-er
+påvirkning, -en
+q, q-en, q-er
 Qatar
 qatarer, -en, -e
 qatarsk, -
 quiche, -n (matrett)
 quickstep, -enquisling, -en
 quiz, -en
-quo vadisr, r-en, r-er
+quo vadis
+r, r-en, r-er
 R = Rødt (politisk parti)
 ra, -et
 rabagast, -en
@@ -14777,10 +14729,8 @@ rak, -t
 raka fant
 rake S, -a el. -en
 rake S (r. og rake)
-rake V, -et el. -te
-(r. høy)
-rake V, -et el. -te
-(vedkomme)
+rake V, -et el. -te (r. høy)
+rake V, -et el. -te (vedkomme)
 rak(e)fisk, -en
 rakett, -en; -våpen
 rakitt, -en
@@ -15070,8 +15020,7 @@ relasjon, -en
 relatere, -te
 relativ, -t
 relativitet, -en
-relé, releet, releer,
-releene
+relé, releet, releer, releene
 relegere, -te
 relevans, -en
 relevant, -
@@ -15329,8 +15278,7 @@ ringeakte, -et
 ringeapparat, -et
 Ringerike
 ringle, -et
-rinne (opp), rant, runnet;
-jf. renne
+rinne (opp), rant, runnet; jf. renne
 ripe S, -a (båt-)
 ripe, S, -n (rift)
 ripe V, -et
@@ -15408,8 +15356,7 @@ roll-on, -er
 rom, -en, -er (sigøyner)
 rom, -men (drikk)
 rom, -met
-rom A, -t, -me
-(rommelig)
+rom A, -t, -me (rommelig)
 Roma
 roman, -en; -helt
 romani (språk)
@@ -15469,8 +15416,7 @@ rotet(e) A
 rotfylling, -en
 rotor, -en
 rotte, -a
-rotte -a/-et
-(r. seg sammen)
+rotte -a/-et (r. seg sammen)
 rotting, -en
 rotunde, -n
 rotvelte, -a
@@ -15516,8 +15462,7 @@ rullestolbruker, -en, -e
 rullings, -en, -er
 rumba, -en (dans)
 rumener, -en
-rumensk, -
-(men Romania)
+rumensk, - (men Romania)
 rumle, -et
 rummel, -et
 rumpe, -a; -taske, -troll
@@ -15667,8 +15612,7 @@ røyne, -te
 røys, -a (stein-)
 røyskatt, -en
 røyte, -et
-rå S, -a, rær, rærne
-(mast)
+rå S, -a, rær, rærne (mast)
 rå V, -dde el. råde
 rå A, rått, rå(e)
 råbukk, -en
@@ -15711,7 +15655,8 @@ råstoff, -et, -er
 råte, -n
 råtne, -et
 råtten, -t, -tne
-råttenskap, -ens, s-en, s-er
+råttenskap, -en
+s, s-en, s-er
 sabb, -en (lat-)
 sabbat, -en
 sabbe, -et; -føre, -t
@@ -15756,8 +15701,7 @@ saks, -a el. -en
 saksbehandling, -a el. -en
 sakse, -et
 saksedyr, -et
-sakser, -en, -e; saksisk, -
-(men Sachsen)
+sakser, -en, -e; saksisk, - (men Sachsen)
 sak(s)liste, -a el. -en
 saksofon, -en
 saks/omkostninger, -ordfører
@@ -15802,8 +15746,7 @@ saltvann, -et
 saltvannsfiske, -t
 salutt, -en
 saluttere, -te
-salvadoraner, -en, -e
-(person fra El Salvador)
+salvadoraner, -en, -e (person fra El Salvador)
 salvadoransk, -
 salve S, -n
 salve V, -et
@@ -15890,7 +15833,7 @@ sanksjon, -en
 sanksjonere, -te
 sanktbernhardshund, -en
 sankthans, -en
-Sankt Olav,
+Sankt Olav
 Sankt Sunniva
 sanktveitsdans, -en
 sann, sant
@@ -16180,7 +16123,7 @@ sertifikat, -et, -er
 sertifisere, -te
 serum, -et, -er
 servant, -en
-serve S, -n (i tennis);
+serve S, -n (i tennis)
 serve V, -et
 server, -en (datamaskin)
 servere, -te
@@ -16455,8 +16398,7 @@ sjauer, -en, -e
 sjef, -en
 sjefe, -et
 sjefet(e) A
-sjef/redaktør; -sekretær
-(sjef for sekretærene)
+sjef/redaktør; -sekretær (sjef for sekretærene)
 sjefs/avgjørelse; -sekretær (sekretær for sjefen), -stilling
 sjeik, -en
 sjekk, -en
@@ -16713,10 +16655,8 @@ skjeløyd, -
 skjema, -et, -er, -ene
 skjematisere, -te
 skjematisk, -
-skjemme, skjemmer,
-skjemte, skjemt
-skjemmes, skjem(me)s,
-skjemtes, har skjemtes
+skjemme, skjemmer, skjemte, skjemt
+skjemmes, skjem(me)s, skjemtes, har skjemtes
 skjemt, -en
 skjemte, -et
 skjende, -et
@@ -16741,7 +16681,7 @@ skjold, -en (flekk)
 skjold, -et (vern)
 skjoldbruskkjertel, -en
 skjoldet(e) A
-skjorte, -a;
+skjorte, -a
 skjort(e)erme, -t
 skjorte/bryst; -flak, -knapp
 skjul, -et
@@ -16852,10 +16792,8 @@ skrei, -en (torsk)
 skrekk, -en
 skrekkslagen, -t, -gne
 skrell, -et (potet-)
-skrelle, skrelte, skrelt
-(fjerne skall)
-skrelle, skrall, skrelt
-(smelle)
+skrelle, skrelte, skrelt (fjerne skall)
+skrelle, skrall, skrelt (smelle)
 skremme, -mte
 skremsel, -et, -sler
 skrense, -et
@@ -16883,10 +16821,8 @@ skrin, -et
 skrinlegge, -la, -lagt
 skrinn, skrint
 skrinnlendt, -
-skript, -et, fl. -, -ene
-(manus)
-skript, -en, -er, -ene
-(yrke)
+skript, -et, fl. -, -ene (manus)
+skript, -en, -er, -ene (yrke)
 skritt, -et
 skritte, -et
 skriv, -et
@@ -16918,7 +16854,7 @@ skrullet(e) A
 skrulling, -en
 skrumpe, -et
 skrunøkkel, -en, -nøkler
-skruppel, -en, skrupler;
+skruppel, -en, skrupler
 skruppel/løs, -t (uten
 skrupler)
 skrupuløs, -t (samvittighetsfull)
@@ -17012,8 +16948,7 @@ skvalp, -en el. -et
 skvalpe, -et
 skvatre, -et
 skvett, -en
-skvette, skvatt, skvettet
-(intr.)
+skvette, skvatt, skvettet (intr.)
 skvette, -a/-et (tr.)
 skvetten, -t, skvetne
 skvett/lapp, -skjerm
@@ -17053,8 +16988,8 @@ skyss/hest, -stasjon, -en
 skyte, skjøt, skutt
 skyts, -et
 skyts/engel, -helgen
-skyttel, -en, skytler;
-skytter, -en, -e; -lag,
+skyttel, -en, skytler
+skytter, -en, -e; -lag
 skyve, skjøv, skjøvet
 skøy, -et (på s.)
 skøye, -et
@@ -17162,8 +17097,7 @@ slep, -et
 slepe S, -a (tømmer-)
 slepe V, -te
 slepen, -t, slepne
-slepp, -et el. slipp, -et
-(heste-)
+slepp, -et el. slipp, -et (heste-)
 sleppe, sleppte, sleppt el.
 slippe, slapp, sluppet
 slepphendt, -
@@ -17177,8 +17111,7 @@ slette S, -a (flate)
 slette V, -et (s. ut)
 slibrig, -
 slibrighet, -en
-slide, -n, fl. -s, -sene
-(lysbilde)
+slide, -n, fl. -s, -sene (lysbilde)
 Slidre
 slik P, slikt, slike
 slikk, -en (-munn)
@@ -17447,8 +17380,7 @@ snibel, -en, -bler
 sniffe, -et
 sniffer, -en, -e
 snik, -en
-snike, snek, sneket
-(liste, s. på trikken)
+snike, snek, sneket (liste, s. på trikken)
 snike, -te (tigge)
 snikksnakk, -et
 snikmord, -et
@@ -17755,10 +17687,8 @@ spenstig, -
 spenstighet, -en
 sperma, -et (sæd)
 spermasett/hval, -olje
-spermie, -n, -r, -ne
-(sædcelle)
-sperre S, -a el. -en
-(gang-; tak-)
+spermie, -n, -r, -ne (sædcelle)
+sperre S, -a el. -en (gang-; tak-)
 sperre V, -et
 sperring, -a el. -en (vei-)
 spesiale, -t, -r, -ne
@@ -17796,8 +17726,7 @@ spiltau, -et
 spinal, -t; -bedøvelse, -n
 spinat, -en
 spindel, -en, -dler
-spindelvev, -en el. -et;
-jf. kingelvev
+spindelvev, -en el. -et; jf. kingelvev
 spinett, -et, fl. - el. -er
 spinke, -et (s. og spare)
 spinkel, -t, -kle
@@ -17904,8 +17833,7 @@ sprenge, sprengte, sprengt
 spreng/kulde, -stoff
 sprett, -en (person)
 sprett, -et
-sprette, spratt, sprettet
-(s. opp fra stolen)
+sprette, spratt, sprettet (s. opp fra stolen)
 sprette, -et (s. opp sømmen)
 spretten, -t, spretne
 sprettende Av (s. kaldt)
@@ -18024,10 +17952,8 @@ stamme V, -et
 stamp, -en
 stampe, -et
 stamtavle, -a el. -en
-stand, -en, -er
-(utstillingsplass)
-stand, -en, stender
-(klasse)
+stand, -en, -er (utstillingsplass)
+stand, -en, stender (klasse)
 standard, -en
 standardisere, -te
 standhaftig, -
@@ -18249,9 +18175,7 @@ stinke, -et
 stinn, stint
 stipend, -et, -er
 stipendfond/et
-stipendiat, -en
-(stipendium, -iet, -ier)
-jf. stipend
+stipendiat, -en (stipendium, -iet, -ier) jf. stipend
 stipulere, -te
 stirre, -et
 stiv, -t
@@ -18300,7 +18224,7 @@ storme, -et
 stormskritt, -et
 stornøyd, -
 storrutet(e) A
-storting, -et;
+storting, -et
 stortings/mann, -kvinne, -representant
 storveies A ub
 story, -en
@@ -18314,8 +18238,7 @@ straffbar, -t
 straffe, -et
 straffe/anstalt; -bestemmelse, -forfølging, -fritak, -lov, -ramme, -rett, -spark, -utmåling
 straff/fange; -frihet, -fullbyrdelse, -nedsettelse, -påstand, -skjerping, -skyld, -utsettelse
-straight, -en, -er
-(i kortspill)
+straight, -en, -er (i kortspill)
 (straight A) se streit
 strak, -t
 straks Av
@@ -18582,8 +18505,7 @@ substans, -en (innhold)
 substansiell, -elt (solid)
 substantiv, -et, fl. - el. -er
 substituere, -te (erstatte)
-substitutt, -en
-(stedfortreder)
+substitutt, -en (stedfortreder)
 substitutt, -et (erstatning)
 subtil, -t
 subtilitet, -en
@@ -18642,8 +18564,7 @@ sultan, -en
 sulte, -et
 sulten, -t, -tne
 sum, -men, -mer
-sumerer, -en, -e
-(oldtidsfolk)
+sumerer, -en, -e (oldtidsfolk)
 sumerisk, - (fra Mesopotamia)
 summarisk, - (kortfattet)
 summe (seg), -et
@@ -18669,8 +18590,7 @@ superb, -
 supere, -te
 superintendent, -en
 superlativ, -en (grammatikalsk)
-superlativ, -et, -er
-(sterkt uttrykk)
+superlativ, -et, -er (sterkt uttrykk)
 supermakt, -en
 supermarked, -et, -er
 supersonisk, - (fortere enn lyden)
@@ -18756,8 +18676,8 @@ svartsmusket, fl. -ede
 svarttrost, -en
 svarv, -en
 svarve, -a/-et
-(sved, -en: Â«i ditt ansikts
-svedÂ»), jf. svette
+(sved, -en: «i ditt ansikts
+sved»), jf. svette
 svein, -en; jf. svenn
 sveip, -et
 sveipe, -te
@@ -18833,8 +18753,7 @@ svinebinde, -bandt, -bundet
 svineri, -et, -er
 sving, -en
 svinge, -te, -t (tr.)
-svinge, svang, svunget
-(intr.)
+svinge, svang, svunget (intr.)
 svinget(e) A
 svingning, -en
 svingom, -en
@@ -18879,7 +18798,7 @@ sweeper, -en
 swing, -en (dans)
 sy, -dde
 sybaritt, -en
-sybarittisk-,
+sybarittisk-
 syde, -et (koke)
 Syden
 sydenreise, -n
@@ -18939,8 +18858,7 @@ syndikat, -et, -er
 syndrom, -et, -er
 syndsforlatelse, -n
 syne, -te (vise)
-synes, syn(e)s, syntes,
-har syntes
+synes, syn(e)s, syntes, har syntes
 synge, sang, sunget
 synke, sank, sunket
 synkope, -n
@@ -19089,7 +19007,8 @@ såte, -a (høy-)
 så vel (som) Av
 så vidt Av
 så visst (som) Av
-så å sit, e-en, t-er
+så å si
+t, t-en, t-er
 ta, tok, tatt; tas
 tabbe, -n; -forsikring
 tabasko, -en; -saus
@@ -19677,8 +19596,7 @@ tirsdag, -en
 tiske, -et
 tispe, -a
 tistel, -en, tistler
-tit, -en el. tite, -a el. -en
-(fugl)
+tit, -en el. tite, -a el. -en (fugl)
 titan, -et (metall)
 titan, -en, -er (kjempe)
 titanisk, - (veldig)
@@ -19797,8 +19715,7 @@ Tordenskiold
 tordenvær, -et
 tordivel, -en, -vler
 tordne, -a/-et
-tore el. tørre, tør, torde,
-tort
+tore el. tørre, tør, torde, tort
 toreador, -en
 torg, -et; -handel
 torn, -en (nype-)
@@ -19831,8 +19748,7 @@ totalist, -en
 totalitær, -t
 totem, -et; -pæl
 tott, -en
-touch, -en (berøring);
-jf. tøtsj
+touch, -en (berøring); jf. tøtsj
 Tourettes syndrom el. tourette S
 tove, -n (floke)
 tove (seg), -et
@@ -19893,10 +19809,8 @@ transittere, -te
 transitt/gods, -handel
 transkjønnet, fl. -ede (transseksuell)
 transkontinental, -t
-transkribere, -te
-(omskrive)
-transkripsjon, -en
-(omskriving)
+transkribere, -te (omskrive)
+transkripsjon, -en (omskriving)
 translatør, -en (oversetter)
 transparent S, -en (plakat)
 transparent A, - (gjennomsiktig)
@@ -19974,8 +19888,7 @@ trene, -te
 trener, -en, -e
 trenere, -te
 trenge, -te
-trenges, trengs,
-trengtes, har trengtes
+trenges, trengs, trengtes, har trengtes
 trengsel, -en, -sler
 trening, -a el. -en
 trenings/løp, -overall
@@ -20069,7 +19982,7 @@ trofé, -feet, -feer
 troika, -en
 Troja
 trojaner, -en, -e
-troké, trokeen:
+troké, trokeen
 trokeisk, -
 trolig, -
 troll, -et
@@ -20326,8 +20239,7 @@ tve- el. tvi- (i ulike sms.)
 Tvedestrand
 tveegget, fl. -ede
 tvehodet, fl. -ede
-tve/kamp, -kjønnet,
-fl. -ede
+tve/kamp, -kjønnet, fl. -ede
 tve/kroket, fl. -ede el. tvi-
 tverke S (på t.)
 tverr, tvert
@@ -20447,8 +20359,7 @@ tørn, -en
 tørne, -et
 tørr, tørt
 tørrdokk, -en
-tørre el. tore, tør, torde,
-tort
+tørre el. tore, tør, torde, tort
 tørre, -et (tørke)
 tørrfisk, -en
 tørråte, -n
@@ -20492,7 +20403,8 @@ tåpelig, -
 tår, -en (slurk)
 tåre, -n
 tårn, -et; -ur
-tåtesmokk, -enu, u-en, u-er
+tåtesmokk, -en
+u, u-en, u-er
 uaktsom, -t, -me
 ualminnelig, -
 uanfektet, fl. -ede
@@ -20783,7 +20695,7 @@ ungarer, -en, -e
 Ungarn
 ungarsk, -
 ungdom, -men
-ungdommelig, -,
+ungdommelig, -
 ungdoms/lag, -tid
 unge, -n
 ungkar, -en
@@ -21100,8 +21012,7 @@ utvendig, -
 utvide, -et
 utvikle, -et
 utvikling, -en
-utviklingshemmet,
-fl. -ede
+utviklingshemmet, fl. -ede
 utviklingsland, -et
 utvinning, -en
 utvisning, -en
@@ -21143,7 +21054,8 @@ uvæpnet, fl. -ede
 uvær, -et
 uvøren, -t, -vørne
 uøvet, fl. -ede
-uår, -etv, v-en, v-er
+uår, -et
+v, v-en, v-er
 V = Venstre
 va el. vade, vadde, vadd
 vable, -n
@@ -21333,8 +21245,7 @@ ved, -en (bjørke-)
 ved Av, Prp
 vedbli, -ble, -blitt
 vedde, -et; -løp, -mål
-vederfares, -fartes,
-har -fares el. er -fart
+vederfares, -fartes, har -fares el. er -fart
 vederheftig, -
 vederkvege, -et
 vederkvegelse, -n
@@ -21388,8 +21299,7 @@ vek, -t el. veik, -t
 veke, -n (lampe-)
 vekk Av
 vekke, -et (v. fra søvn)
-vekke, vakte, vakt
-(v. oppmerksomhet)
+vekke, vakte, vakt (v. oppmerksomhet)
 vekke Av (langt v.)
 vekkelse, -n; -s/møte
 vekke(r)klokke, -a el. -en
@@ -21511,7 +21421,7 @@ verdslig, -
 verdt, - el. verd, -
 verft, -et
 verge S, -n (formynder)
-verge S, -t (â€œskjold og v.â€)
+verge S, -t («skjold og v.»)
 verge V, -et
 vergeløs, -t
 verge/mål, -råd
@@ -21597,7 +21507,7 @@ vet, av vite
 vete, -n (varde)
 veteran, -en; -bil
 veterinær, -en
-veto, -et, fl. - ; -rett
+veto, -et, fl. -; -rett
 vett, -et (forstand)
 vette, -n (vonde vetter)
 vettig, - el. vettug
@@ -21711,8 +21621,7 @@ vimset(e) A
 vin, -en
 vind, -en
 vinde, -a (garn-)
-vinde, vandt, vundet
-(tvinne)
+vinde, vandt, vundet (tvinne)
 vindebru, -a el. -bro, -en
 vindeltrapp, -a el. -en
 vindfall, -et
@@ -21741,8 +21650,7 @@ vinkel, -en, -kler
 vinkle, -et
 Vinmonopolet
 vinn S (legge v. på)
-vinne, vant, vunnet;
-jf. vunnen
+vinne, vant, vunnet; jf. vunnen
 vinnelyst, -en
 vinnende A (et v. smil)
 vinner, -en
@@ -21890,8 +21798,7 @@ volt, -en
 volte, -n (krumspring)
 volum, -et, fl. - el. -er
 voluminøs, -t
-volve, -a el. -en
-(spåkvinne)
+volve, -a el. -en (spåkvinne)
 vom, -ma el. -men, -mer
 vond, vondt, verre, verst
 vondord, -et
@@ -21914,8 +21821,7 @@ vrak, -et
 vrake, -et
 vralte, -et
 vrang, -t
-vrange, -a el. -en
-(vrangside)
+vrange, -a el. -en (vrangside)
 vranglås S (gå i v.)
 vrangvilje, -n
 vranten, -t, -tne
@@ -21954,13 +21860,11 @@ vulkanisere, -te
 vulkansk, -
 vulke, -et; jf. vulkanisere
 vulva, -en
-vunnen el. vunnet, vunnet, vunne
-(de(n), det vunne)
+vunnen el. vunnet, vunnet, vunne (de(n), det vunne)
 vurdere, -te
 vurderingssak, en
 VVS = vann, varme og sanitær
-vy, -en, -er, -ene
-(utsyn)
+vy, -en, -er, -ene (utsyn)
 Vänern
 væpne, -et
 væpner, -en, -e
@@ -22011,7 +21915,8 @@ vås, -et
 våse, -te
 våset(e) A
 våt, vått
-våt/drakt, -gass, -markw, w-en, w-er
+våt/drakt, -gass, -mark
+w, w-en, w-er
 Wales
 waliser, -en, -e
 walisisk, -
@@ -22047,11 +21952,11 @@ wok, -en
 wokke, -a/-et
 wolfram, -et; -lampe
 worcestersaus, -en
-worldcup, -en;
-jf. verdenscup
+worldcup, -en; jf. verdenscup
 workshop, -en
 WTO (Verdens handelsorganisasjon)
-www (World Wide Web; globalt datanett)x, x-en, x-er
+www (World Wide Web; globalt datanett)
+x, x-en, x-er
 X = romertall 10
 x-akse, -n
 xantippe, en
@@ -22061,7 +21966,8 @@ xhosa S (språk)
 x-krok, -en
 X-kromosom, -et
 x-stråle, -n (i røntgen)
-xylofon, -eny, y-en, y-er
+xylofon, -en
+y, y-en, y-er
 yacht, -en; -klubb
 y-akse, -n
 yankee, yankeen
@@ -22117,7 +22023,8 @@ ytterliggående
 ytterlighet, -en
 ytterside, -n
 ytterst A, Av
-ytter/tøy, -veggz, z-en, z-er
+ytter/tøy, -vegg
+z, z-en, z-er
 Zambia
 zambier, -en, -e
 zambisk, -
@@ -22137,7 +22044,8 @@ zoologi, -en
 zoom, -en
 zoome, -et
 zulu, -en
-zygote, -næ, æ-en, æ-er
+zygote, -n
+æ, æ-en, æ-er
 æra, -en (epoke)
 ærbar, -t
 ærbødig, -
@@ -22165,7 +22073,8 @@ zygote, -næ, æ-en, æ-er
 ætte, -et (ætte fra)
 ætt(e)far, -en, -fedre
 ættesaga, -en
-ættledd, -etø, ø-en, ø-er
+ættledd, -et
+ø, ø-en, ø-er
 øde S, -t
 øde V, ødte
 øde, - el. ødt
@@ -22303,7 +22212,8 @@ zygote, -næ, æ-en, æ-er
 øygard, -en (i sjøen)
 øyloffing, -a el. -en
 øyne, -et
-øyr, -a el. ør, -aå, å-en, å-er (bokstav)
+øyr, -a el. ør, -a
+å, å-en, å-er (bokstav)
 å, -a el. -en, -er (elv)
 å, infinitivsmerke
 åger, -en el. -et

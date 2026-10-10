@@ -1,65 +1,70 @@
 # Søk i NTB-ordlisten
 
-Nettbasert søk i NTBs rettskrivningsordliste. Fullstendig TypeScript — søkelogikken kjører på serveren via et JSON API.
+Nettbasert søk i NTBs rettskrivningsordliste, med NTBs språknorm som egen side.
+Nettsiden er helt statisk: ordlisten lastes én gang, og søk kjøres lokalt i nettleseren.
+Ingen Deno, API-server eller eksterne kjøretidsavhengigheter er nødvendig.
 
-![Screenshot 2026-03-01 at 22 17 34](https://github.com/user-attachments/assets/62cbabd8-c5a3-4a4a-9d5b-0a21dfe8fc90)
-
+![Screenshot](https://github.com/user-attachments/assets/62cbabd8-c5a3-4a4a-9d5b-0a21dfe8fc90)
 
 ## Kjør lokalt
 
-```sh
-deno task dev
-```
-
-Åpne <http://localhost:8000>.
-
-## Test
+Installer Bun 1.4.2 eller nyere (CI bruker Bun 1.4.2):
 
 ```sh
-deno task test      # Kjør alle tester (27 stk)
-deno task check     # Type-sjekk
-deno task lint      # Lint
+bun install --frozen-lockfile
+bun run dev
 ```
 
-## Deploy
+Åpne <http://localhost:8000>. Kjør kommandoen på nytt etter kildeendringer.
+Sett `PORT` hvis du ønsker en annen port.
 
-Prosjektet er laget for [Deno Deploy](https://deno.com/deploy).
+## Test og bygg
 
-1. Push repoet til GitHub.
-2. Opprett et nytt prosjekt på <https://dash.deno.com>.
-3. Koble til GitHub-repoet og sett entrypoint til `main.ts`.
-
-## API
-
-```
-GET /api/search?q=<søkeord>
+```sh
+bun run lint    # Oxlint (advarsler behandles som feil)
+bun test        # Enhets- og byggetester med Buns testkjører
+bun run build   # Generer den statiske nettsiden i dist/
+bun run preview # Vis den ferdigbygde nettsiden lokalt
 ```
 
-Returnerer JSON:
+Bygget kopierer HTML og JavaScript og genererer `dist/assets/dictionary.json`.
+Linjer som er delt midt i en parentesmerknad, slås sammen til én oppføring.
+Søket støtter prefiks, store/små bokstaver og aksenter, men skiller mellom
+norske æ, ø og å. Ett tegn etterfulgt av mellomrom finner også ett-tegnsord.
 
-```json
-{
-  "count": 4,
-  "matches": ["abbed, -en", "abbedi, -et, -er", "abbedisse, -n", "abbor, -en"]
-}
-```
+## Deploy til GitHub Pages
+
+1. Åpne **Settings → Pages** i GitHub-repoet.
+2. Velg **GitHub Actions** under **Build and deployment → Source**.
+3. Push til `main`, eller start workflowen **Build and deploy GitHub Pages** manuelt.
+
+Workflowen i `.github/workflows/pages.yml` installerer med Buns låsefil,
+kjører Oxlint og tester, bygger
+nettsiden og publiserer `dist/` til GitHub Pages. Pull requests mot `main`
+bygges og testes uten å publiseres.
+
+For dette repoet blir standardadressen <https://difronzo.github.io/NTB-ordlisten/>.
+Alle interne lenker og ressursadresser er relative, så nettsiden fungerer både
+under repoets undermappe og på et eget domene.
+
+GitHub Pages trenger et **statisk byggeartefakt**, ikke et Docker-image.
+Den tidligere `/api/search`-ruten er fjernet; søket kjører nå i nettleseren.
 
 ## Struktur
 
-```
-main.ts                         Deno-server (routing + static files)
-deno.json                       Oppgaver, importkart og konfigurasjon
-src/
-  dictionary.ts                 Laster ordlistedata
-  search.ts                     Søkelogikk (normalise, escapeRegex, search)
-data/
-  dictionary.txt                Ordlisten (ren tekst, ~22 000 oppføringer)
-static/
-  index.html                    Nettsiden (klient)
-tests/
-  search_test.ts                Enhetstester for søkelogikk
-  dictionary_test.ts            Enhetstester for ordlistedata
-  api_test.ts                   Integrasjonstester for API og statiske filer
+```text
+.github/workflows/pages.yml     CI og GitHub Pages-deploy
+scripts/build.js                Genererer dist/
+scripts/serve.js                Lokal forhåndsvisning
+src/dictionary.js               Parser ordlistedata og samler delte linjer
+src/search.js                   Søkeindeks og normalisering
+src/app.js                      Nettlesergrensesnitt
+static/index.html               Søkesiden
+static/spraknorm.html           NTBs språknorm
+static/404.html                 Egen feilside (GitHub Pages)
+static/favicon.svg              Ikon
+data/dictionary.txt             Ordlisten (~22 000 oppføringer)
+tests/*.test.js                 Regresjonstester og byggetest
 ```
 
 ## Kreditt

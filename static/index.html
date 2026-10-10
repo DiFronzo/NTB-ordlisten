@@ -4,6 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Søk i NTB-ordlisten</title>
+    <meta name="description" content="Søk i NTBs rettskrivningsordliste med over 22 000 oppføringer.">
+    <meta name="theme-color" content="#1a1a2e">
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="NTB-ordlisten">
+    <meta property="og:locale" content="nb_NO">
+    <meta property="og:title" content="Søk i NTB-ordlisten">
+    <meta property="og:description" content="Søk i NTBs rettskrivningsordliste med over 22 000 oppføringer.">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Søk i NTB-ordlisten">
+    <meta name="twitter:description" content="Søk i NTBs rettskrivningsordliste med over 22 000 oppføringer.">
     <style>
         :root {
             --color-primary: #1a1a2e;
@@ -83,7 +94,7 @@
             position: relative;
         }
 
-        .search-input-wrapper svg {
+        .search-input-wrapper > svg {
             position: absolute;
             left: 14px;
             top: 50%;
@@ -96,7 +107,7 @@
 
         #dictQuery {
             width: 100%;
-            padding: 14px 16px 14px 44px;
+            padding: 14px 44px 14px 44px;
             font-size: 1.125rem;
             border: 2px solid var(--color-border);
             border-radius: var(--radius);
@@ -104,6 +115,40 @@
             color: var(--color-text);
             outline: none;
             transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        .clear-button {
+            position: absolute;
+            right: 8px;
+            top: 50%;
+            transform: translateY(-50%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 32px;
+            height: 32px;
+            padding: 0;
+            border: 0;
+            border-radius: 50%;
+            background: transparent;
+            color: var(--color-text-muted);
+            cursor: pointer;
+        }
+
+        .clear-button[hidden] {
+            display: none;
+        }
+
+        .clear-button:hover,
+        .clear-button:focus-visible {
+            background: rgba(15, 52, 96, 0.08);
+            color: var(--color-text);
+            outline: none;
+        }
+
+        .clear-button svg {
+            width: 18px;
+            height: 18px;
         }
 
         #dictQuery:focus {
@@ -234,22 +279,30 @@
                 <input
                     type="text"
                     id="dictQuery"
+                    aria-label="Søk i ordlisten"
+                    disabled
                     placeholder="Skriv inn et ord..."
                     autocomplete="off"
                     autocorrect="off"
                     autocapitalize="off"
                     spellcheck="false"
                 />
+                <button type="button" id="clearQuery" class="clear-button" aria-label="Tøm søkefeltet" title="Tøm søkefeltet" hidden>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 6l12 12M18 6L6 18" />
+                    </svg>
+                </button>
             </div>
         </div>
 
-        <div class="search-meta">
+        <div class="search-meta" role="status" aria-live="polite">
             <span id="searchText"></span>
             <span id="searchCounter"></span>
             <span id="searchCounterText"></span>
         </div>
 
         <div id="searchResult"></div>
+        <noscript>Du må aktivere JavaScript for å søke i ordlisten.</noscript>
 
         <div id="helpSection" class="help-section">
             <h3>Slik søker du</h3>
@@ -263,88 +316,9 @@
     </main>
 
     <footer>
-        <a href="/spraknorm.html">NTBs språknorm</a> · Ordliste av Rune Wikstøl
+        <a href="./spraknorm">NTBs språknorm</a> · Ordliste av Rune Wikstøl
     </footer>
 
-    <script>
-      "use strict";
-
-      const searchResultElm = document.getElementById("searchResult");
-      const searchForElm = document.getElementById("searchText");
-      const counterElm = document.getElementById("searchCounter");
-      const counterTextElm = document.getElementById("searchCounterText");
-      const helpSection = document.getElementById("helpSection");
-      const queryInput = document.getElementById("dictQuery");
-
-      /** HTML-escape user input to prevent XSS. */
-      function escapeHtml(text) {
-        const div = document.createElement("div");
-        div.appendChild(document.createTextNode(text));
-        return div.innerHTML;
-      }
-
-      let debounceTimer = null;
-      let abortController = null;
-
-      function searchDict() {
-        clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(runSearch, 200);
-      }
-
-      async function runSearch() {
-        const raw = queryInput.value.trim();
-
-        // Reset UI
-        searchForElm.innerHTML = "";
-        searchResultElm.innerHTML = "";
-        counterElm.textContent = "";
-        counterElm.classList.remove("visible");
-        counterTextElm.textContent = "";
-
-        if (raw === "") {
-          helpSection.style.display = "";
-          return;
-        }
-        helpSection.style.display = "none";
-
-        if (raw.length < 2 && !raw.endsWith(" ")) {
-          return;
-        }
-
-        searchForElm.innerHTML =
-          "Søker etter <b>" + escapeHtml(raw) + "</b>";
-
-        // Abort any in-flight request
-        if (abortController) abortController.abort();
-        abortController = new AbortController();
-
-        try {
-          const res = await fetch(
-            "/api/search?q=" + encodeURIComponent(queryInput.value),
-            { signal: abortController.signal },
-          );
-          const data = await res.json();
-
-          counterElm.classList.add("visible");
-          counterElm.textContent = String(data.count);
-          counterTextElm.textContent =
-            data.count === 1 ? "element funnet" : "elementer funnet";
-
-          const fragments = data.matches.map(function (entry) {
-            const formatted = entry.replace(/^([^,]+)/, "<b>$1</b>");
-            return '<div class="result-line">' + formatted + "</div>";
-          });
-          searchResultElm.innerHTML = fragments.join("");
-        } catch (e) {
-          if (e.name !== "AbortError") console.error(e);
-        }
-      }
-
-      queryInput.addEventListener("keyup", searchDict);
-      queryInput.addEventListener("keydown", function (e) {
-        if (e.key === "Enter") e.preventDefault();
-      });
-      queryInput.focus();
-    </script>
+    <script type="module" src="./assets/app.js"></script>
 </body>
 </html>

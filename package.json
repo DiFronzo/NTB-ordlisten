@@ -1,0 +1,21 @@
+{
+  "name": "ntb-ordlisten",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "bun@1.4.2",
+  "engines": {
+    "bun": ">=1.4.2"
+  },
+  "scripts": {
+    "build": "bun scripts/build.js",
+    "dev": "bun run build && bun scripts/serve.js",
+    "preview": "bun scripts/serve.js",
+    "test": "bun test",
+    "lint": "oxlint --deny-warnings src scripts tests",
+    "check": "bun run lint"
+  },
+  "devDependencies": {
+    "oxlint": "1.87.0"
+  }
+}
